@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JazzTaller", "JazzTaller\JazzTaller.csproj", "{F33E62DD-7C55-421D-8AE7-5D2CF214EA92}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E375503F-9A0F-49D2-8A86-E137757CCE8B} = {E375503F-9A0F-49D2-8A86-E137757CCE8B}
+		{F29C435E-C88E-4CAF-8749-D196E1E5ECB6} = {F29C435E-C88E-4CAF-8749-D196E1E5ECB6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JazzTaller_Utilerías", "JazzTaller_Utilerías\JazzTaller_Utilerías.csproj", "{F29C435E-C88E-4CAF-8749-D196E1E5ECB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroBLL", "RegistroBLL\RegistroBLL.csproj", "{E375503F-9A0F-49D2-8A86-E137757CCE8B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F29C435E-C88E-4CAF-8749-D196E1E5ECB6} = {F29C435E-C88E-4CAF-8749-D196E1E5ECB6}
+		{60C6CBA9-5809-44A2-94D2-B30233645A8B} = {60C6CBA9-5809-44A2-94D2-B30233645A8B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroDAL", "RegistroDAL\RegistroDAL.csproj", "{60C6CBA9-5809-44A2-94D2-B30233645A8B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F29C435E-C88E-4CAF-8749-D196E1E5ECB6} = {F29C435E-C88E-4CAF-8749-D196E1E5ECB6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33E62DD-7C55-421D-8AE7-5D2CF214EA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33E62DD-7C55-421D-8AE7-5D2CF214EA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33E62DD-7C55-421D-8AE7-5D2CF214EA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33E62DD-7C55-421D-8AE7-5D2CF214EA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29C435E-C88E-4CAF-8749-D196E1E5ECB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29C435E-C88E-4CAF-8749-D196E1E5ECB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29C435E-C88E-4CAF-8749-D196E1E5ECB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29C435E-C88E-4CAF-8749-D196E1E5ECB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E375503F-9A0F-49D2-8A86-E137757CCE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E375503F-9A0F-49D2-8A86-E137757CCE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E375503F-9A0F-49D2-8A86-E137757CCE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E375503F-9A0F-49D2-8A86-E137757CCE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C6CBA9-5809-44A2-94D2-B30233645A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C6CBA9-5809-44A2-94D2-B30233645A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C6CBA9-5809-44A2-94D2-B30233645A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C6CBA9-5809-44A2-94D2-B30233645A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

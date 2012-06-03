@@ -1,0 +1,5 @@
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\bin\Release\JazzTaller_Utilerías.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\bin\Release\JazzTaller_Utilerías.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Release\JazzTaller_Utilerías.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Release\JazzTaller_Utilerías.pdb

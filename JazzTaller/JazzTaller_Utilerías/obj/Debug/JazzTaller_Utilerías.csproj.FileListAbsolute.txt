@@ -1,0 +1,15 @@
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\bin\Debug\JazzTaller_Utilerías.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\bin\Debug\JazzTaller_Utilerías.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Debug\JazzTaller_Utilerías.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Debug\JazzTaller_Utilerías.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller_Utilerías\bin\Debug\JazzTaller_Utilerías.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller_Utilerías\bin\Debug\JazzTaller_Utilerías.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller_Utilerías\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller_Utilerías\obj\Debug\JazzTaller_Utilerías.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller_Utilerías\obj\Debug\JazzTaller_Utilerías.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\bin\Debug\JazzTaller_Utilerías.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\bin\Debug\JazzTaller_Utilerías.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Debug\JazzTaller_Utilerías.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller_Utilerías\obj\Debug\JazzTaller_Utilerías.pdb

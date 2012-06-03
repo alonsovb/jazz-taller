@@ -1,0 +1,92 @@
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\JazzTaller.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\JazzTaller.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\JazzTaller_Utilerías.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\RegistroBLL.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\RegistroDAL.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\JazzTaller_Utilerías.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\RegistroBLL.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\RegistroDAL.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\obj\Debug\JazzTaller.dll
+D:\Dropbox\Proyecto\JazzTaller\JazzTaller\obj\Debug\JazzTaller.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\JazzTaller.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\JazzTaller.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\JazzTaller_Utilerías.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\RegistroBLL.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\RegistroDAL.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.Interception.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\JazzTaller_Utilerías.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\RegistroBLL.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\RegistroDAL.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\obj\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\obj\Debug\JazzTaller.dll
+E:\Dropbox\TEC\Introducción al desarrollo de Aplicaciones Web\Proyecto - Sancho\JazzTaller\JazzTaller\obj\Debug\JazzTaller.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\JazzTaller.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\JazzTaller.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\JazzTaller_Utilerías.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\RegistroBLL.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\RegistroDAL.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\JazzTaller_Utilerías.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\RegistroBLL.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\RegistroDAL.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\obj\Debug\JazzTaller.dll
+C:\Users\Alonso\Documents\Visual Studio 2010\Projects\JazzTaller\JazzTaller\obj\Debug\JazzTaller.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\JazzTaller.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\JazzTaller.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\JazzTaller_Utilerías.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\RegistroBLL.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\RegistroDAL.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\JazzTaller_Utilerías.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\RegistroBLL.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\RegistroDAL.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\obj\Debug\JazzTaller.dll
+D:\Dropbox\Proyecto - Sancho\JazzTaller\JazzTaller\obj\Debug\JazzTaller.pdb
